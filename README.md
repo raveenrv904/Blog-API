@@ -12,8 +12,9 @@ To run the API, follow these steps:
 			MONGO_URI={your MongoDB database URL}
 		3. Open the terminal on your computer.
 		4. Navigate to the BLOG API directory.
- 		5. Run the command "npm start" to start the API execution.
-		6. The API has been successfully executed.
+		5. Type "npm install" to install all the required packages.
+ 		6. Run the command "npm start" to start the API execution.
+		7. The API has been successfully executed.
 
 
 This API supports four methods: GET, CREATE, PATCH, and DELETE. These methods allow you to perform various operations on the API, including retrieving data (GET), creating new data (CREATE), updating existing data (PATCH), and deleting data (DELETE).
