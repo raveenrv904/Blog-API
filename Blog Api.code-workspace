@@ -1,14 +1,1 @@
-{
-  "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "../tutorial/node-express-course-main/04-store-api/starter"
-	},
-	{
-		"path": "../tutorial/node-express-course-main/03-task-manager"
-	}
-],
-  "settings": {}
-}
+
